@@ -21,11 +21,11 @@ On peut ensuite accéder et faire marcher les notebooks.
 
 ## Organisation du projet
 Ce dossier est composé de plusieurs élements:
-- 3 notebooks: 
+- 2 notebooks: 
     - Processing (sélection des lags, sélection de variables)
-    - Modelling and Challenge (Modèle Probit, Prolongement et Applications de modèles ML et autres méthodes)
+    - Modelling and Challenge (Modèle Probit, Prolongement, Applications de modèles ML et autres méthodes)
 - data: 
-    - external: données de bases externes comme la variable de récession, le NYSE, Dow Jones et données trimestrielles
+    - données de bases externes comme la variable de récession, le NYSE, Dow Jones et données trimestrielles
 - reports:
     - Rapport écrit de notre analyse
     - Papier de référence d'Estrella et Mishkin
